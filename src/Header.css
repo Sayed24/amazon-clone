@@ -9,10 +9,10 @@
 }
 
 .header__logo {
-width: 100px;
-object-fit: contain;
-margin: 0 20px;
-margin-top: 18px;  
+    width: 100px;
+    object-fit: contain;
+    margin: 0 20px;
+    margin-top: 18px;
 }
 
 .header__search {
@@ -67,9 +67,3 @@ margin-top: 18px;
     margin-right: 10px;
     color: white;
 }
-
-
-
-
-
-
